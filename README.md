@@ -294,3 +294,6 @@ Good for team projects
 - Method Draw (SVG Editor) - http://editor.method.ac
 - AConvert (Image to SVG Converter) - https://www.aconvert.com/image/png-to-svg/
 - Image Compression and Optimization API - https://www.abstractapi.com/image-processing-optimization-api
+
+### Startup Hiring:
+- Entrepreneur DNA Test	https://dna.fi.co/
